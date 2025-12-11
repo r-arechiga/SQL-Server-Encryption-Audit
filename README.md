@@ -1,4 +1,4 @@
-# SQL Server Encryption Audit– Centralized PowerShell Compliance Scanner 
+# SQL Server Encryption Audit – Centralized PowerShell Compliance Scanner 
 ---
 There are several instances, whether during testing or troubleshooting, when a SQL Server may have ForceEncryption set to OFF. We’re all human, sometimes after an exhausting day, the technician responsible for the task may simply forget to turn encryption back on.
 
